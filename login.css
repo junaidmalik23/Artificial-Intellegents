@@ -1,0 +1,58 @@
+body{
+    width: cover;
+    margin: auto;
+   padding: 0;
+   
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+.login{
+    width:450px;
+    margin: auto;
+    padding: 50px;
+    margin: 20 0 0 450px;
+background-image: url("assets/img/AIW.jpg");
+    
+    border-radius: 20px;
+    font-size: 25px;
+}
+h1{
+    font-family: Forte;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+}
+img{
+    border-radius:50px ;
+    width: 350px;
+    margin: auto;
+    padding: 10px;
+    margin-top: center;
+}
+label{
+    
+    font-family: Berlin Sans FB Demi;
+    color: white;
+    font-size: 30px;
+}
+#uname{
+    width: 350px;
+    height: 30px;
+    border-radius:10px;
+    padding: auto;
+}
+#pass{
+    width: 350px;
+    height: 30px;
+    border-radius:10px;
+ padding: auto; 
+
+}
+
+span{
+    color: white;
+    font-size: 20px;
+    font-family:unset;
+}
